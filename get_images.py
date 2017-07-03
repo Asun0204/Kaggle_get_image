@@ -8,7 +8,7 @@ import sys
 import os
 import json
 from concurrent.futures import ThreadPoolExecutor
-from urllib.request import urlretrieve
+from urllib import urlretrieve
 
 
 def download_images(urls, storage_path, index):
