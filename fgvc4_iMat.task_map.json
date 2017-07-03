@@ -1,0 +1,184 @@
+{
+  "taskInfo": [
+    {
+      "taskName": "shoe:gender", 
+      "taskId": "1"
+    }, 
+    {
+      "taskName": "shoe:age", 
+      "taskId": "2"
+    }, 
+    {
+      "taskName": "shoe:color", 
+      "taskId": "3"
+    }, 
+    {
+      "taskName": "shoe:up height", 
+      "taskId": "4"
+    }, 
+    {
+      "taskName": "dress:decoration", 
+      "taskId": "5"
+    }, 
+    {
+      "taskName": "dress:color", 
+      "taskId": "6"
+    }, 
+    {
+      "taskName": "dress:material", 
+      "taskId": "7"
+    }, 
+    {
+      "taskName": "dress:silhouette", 
+      "taskId": "8"
+    }, 
+    {
+      "taskName": "shoe:type", 
+      "taskId": "9"
+    }, 
+    {
+      "taskName": "shoe:closure type", 
+      "taskId": "10"
+    }, 
+    {
+      "taskName": "pants:color", 
+      "taskId": "11"
+    }, 
+    {
+      "taskName": "dress:length", 
+      "taskId": "12"
+    }, 
+    {
+      "taskName": "outerwear:type", 
+      "taskId": "13"
+    }, 
+    {
+      "taskName": "dress:occasion", 
+      "taskId": "14"
+    }, 
+    {
+      "taskName": "outerwear:gender", 
+      "taskId": "15"
+    }, 
+    {
+      "taskName": "shoe:toe shape", 
+      "taskId": "16"
+    }, 
+    {
+      "taskName": "outerwear:color", 
+      "taskId": "17"
+    }, 
+    {
+      "taskName": "shoe:heel type", 
+      "taskId": "18"
+    }, 
+    {
+      "taskName": "outerwear:collar", 
+      "taskId": "19"
+    }, 
+    {
+      "taskName": "outerwear:age", 
+      "taskId": "20"
+    }, 
+    {
+      "taskName": "outerwear:material", 
+      "taskId": "21"
+    }, 
+    {
+      "taskName": "pants:fit", 
+      "taskId": "22"
+    }, 
+    {
+      "taskName": "pants:type", 
+      "taskId": "23"
+    }, 
+    {
+      "taskName": "pants:decoration", 
+      "taskId": "24"
+    }, 
+    {
+      "taskName": "pants:pattern", 
+      "taskId": "25"
+    }, 
+    {
+      "taskName": "pants:material", 
+      "taskId": "26"
+    }, 
+    {
+      "taskName": "outerwear:length", 
+      "taskId": "27"
+    }, 
+    {
+      "taskName": "outerwear:sleeve length", 
+      "taskId": "28"
+    }, 
+    {
+      "taskName": "dress:age", 
+      "taskId": "29"
+    }, 
+    {
+      "taskName": "shoe:decoration", 
+      "taskId": "30"
+    }, 
+    {
+      "taskName": "pants:age", 
+      "taskId": "31"
+    }, 
+    {
+      "taskName": "pants:gender", 
+      "taskId": "32"
+    }, 
+    {
+      "taskName": "outerwear:pattern", 
+      "taskId": "33"
+    }, 
+    {
+      "taskName": "shoe:flat type", 
+      "taskId": "34"
+    }, 
+    {
+      "taskName": "dress:sleeve length", 
+      "taskId": "35"
+    }, 
+    {
+      "taskName": "shoe:material", 
+      "taskId": "36"
+    }, 
+    {
+      "taskName": "dress:pattern", 
+      "taskId": "37"
+    }, 
+    {
+      "taskName": "dress:collar", 
+      "taskId": "38"
+    }, 
+    {
+      "taskName": "outerwear:closure type", 
+      "taskId": "39"
+    }, 
+    {
+      "taskName": "dress:gender", 
+      "taskId": "40"
+    }, 
+    {
+      "taskName": "shoe:back counter type", 
+      "taskId": "41"
+    }, 
+    {
+      "taskName": "shoe:pump type", 
+      "taskId": "42"
+    }, 
+    {
+      "taskName": "pants:rise type", 
+      "taskId": "43"
+    }, 
+    {
+      "taskName": "pants:length", 
+      "taskId": "44"
+    }, 
+    {
+      "taskName": "shoe:boot type", 
+      "taskId": "45"
+    }
+  ]
+}
